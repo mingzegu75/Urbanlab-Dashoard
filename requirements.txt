@@ -1,8 +1,0 @@
-streamlit
-pandas
-requests
-sqlalchemy
-psycopg2-binary
-pydeck
-altair
-python-dotenv
